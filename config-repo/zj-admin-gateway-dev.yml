@@ -1,9 +1,5 @@
 server:
-  port: 8080
-
-spring:
-  application:
-    name: zj-admin-gateway
+  port: 8081
 
 management:
   endpoints:
